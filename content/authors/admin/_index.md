@@ -1,54 +1,37 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
-first_name: Alice
+first_name: Luca
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- Labour market structural changes
+- Income and wage inequality
+- Social stratification and intergenerational mobility
+- Class analysis and income distributions
+last_name: Giangregorio
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Pompeu Fabra University 
+  url: https://www.upf.edu/web/demosoc/
+role: PhD Candidate in Social Sciences
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=3mI2qDYAAAAJ&hl=it
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/LucaGiangregorio93
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/my-orcid?orcid=0000-0002-7621-8861
 superuser: true
-title: Alice Bighetti 吳恩達
+title: Luca Giangregorio
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Social Sciences in the Department of Political and Social Sciences at the Pompeu Fabra University. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I combine economics and sociological fields to study the dynamics of labour markets, occupational structural changes, their impacts on income and wage inequalities, and intergenerational income and class mobility.   
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Cv_Giangregorio.pdf" "newtab" >}}CV{{< /staticref >}}.
