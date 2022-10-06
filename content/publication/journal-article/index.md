@@ -1,52 +1,31 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper aims at identifying how and to what extent the Italian labour market structure in terms of job composition and institutional changes shape the dynamics of wages and wage inequality in the decade 2007-2017. We investigate the main determinants behind the rise in wage inequality in Italy using Recentered Influence Function (RIF) regressions. This econometric approach allows - on one side - to directly assess the effects over the unconditional distribution and on statistics beyond the mean, like the Gini coefficient. On the other, it decomposes the inequality difference into the endow-ment and wage effects, following the standard Oaxaca-Blinder technique. We observe that the occupational structure and institutional changes - contractual arrangements (permanent vs temporary contract) and working time (full-time vs part-time) - are the main factors in explaining the wage downgrade at the bottom of the income distribution and the consequent in-crease in wage inequality. 
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
+- Marta Fana
 doi: ""
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*European Commission, Joint Research Centre (JRC) - LET Working paper*'
 publication_short: ""
-publication_types:
-- "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+publishDate: "2021-07-01T00:00:00Z"
+show_date: false
+summary: ""
 tags:
-- Source Themes
-title: An example journal article
-url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+- SBTC
+title: 'The structure of the labour market and wage inequality using RIF-OLS: The Italian case'
+
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.econstor.eu/bitstream/10419/240186/1/1767905688.pdf
 url_poster: ""
 url_project: ""
-url_slides: ""
 url_source: ""
 url_video: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
