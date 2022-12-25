@@ -16,8 +16,8 @@ publication_short: ""
 publishDate: "2022-07-01T00:00:00Z"
 show_date: false
 summary: ""
-tags: Income inequality and Welfare Types
-- 
+tags: 
+- Income inequality and Welfare Types
 title: 'Welfare type and income inequality: an income source decomposition including in-kind benefits and cash-transfers entitlement'
 
 url_dataset: ""
