@@ -34,4 +34,4 @@ I am a PhD candidate in Social Sciences in the Department of Political and Socia
 I combine economics and sociological literature to study the dynamics of labour markets, occupational structural changes, their impacts on income and wage inequalities, and intergenerational income and class mobility.   
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Cv_Giangregorio.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_dec22.pdf" "newtab" >}}CV{{< /staticref >}}.
