@@ -29,8 +29,11 @@ content:
   #    tag: jrc
   #    - name: Abilities & Intergenerational Mobility
   #    tag: aim
-  #  - name: Future research
-  #     tag: ft
+  #  - name: Administrative Data - outsourcing & minimum wages
+  #     tag: ad
+  #  - name: UNEQUAL
+  #     tag: un
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
