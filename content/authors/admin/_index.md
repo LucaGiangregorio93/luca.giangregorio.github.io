@@ -11,7 +11,7 @@ last_name: Giangregorio
 organizations:
 - name: Pompeu Fabra University 
   url: https://www.upf.edu/web/demosoc/
-role: PhD Candidate in Social Sciences
+role: PhD in Social Sciences
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,9 +29,9 @@ superuser: true
 title: Luca Giangregorio
 ---
 
-I  my PhD in Social Sciences in the Department of Political and Social Sciences at the Pompeu Fabra University, discussing the thesis "Key sources of income (and wage) inequalities: from the State to the individuals".
+I obtained my PhD in Social Sciences in the Department of Political and Social Sciences at the Pompeu Fabra University, discussing the thesis "Key sources of income (and wage) inequalities: from the State to the individuals".
 
-I obtained combine economics and sociological literature to study the dynamics of labour markets, occupational structural changes, their impacts on income and wage inequalities, and intergenerational income and class mobility.
+I combine economics and sociological literature to study the dynamics of labour markets, occupational structural changes, their impacts on income and wage inequalities, and intergenerational income and class mobility.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Giangregorio.pdf" "newtab" >}}CV{{< /staticref >}}.
