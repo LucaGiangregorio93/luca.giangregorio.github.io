@@ -14,7 +14,7 @@ projects: []
 publication: 'ECINEQ Working Paper'
 publication_short: ""
 
-publishDate: "2023-05T00:00:00Z"
+publishDate: "2023-05-01T00:00:00Z"
 show_date: false
 summary: ""
 tags: 
