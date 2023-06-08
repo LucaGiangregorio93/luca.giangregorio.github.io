@@ -7,13 +7,14 @@ author_notes:
 - Equal contribution
 authors:
 - admin
+- Davide Villani
 doi: ""
 featured: false
 projects: []
 publication: 'ECINEQ Working Paper'
 publication_short: ""
 
-publishDate: "2022-07-01T00:00:00Z"
+publishDate: "2023-05T00:00:00Z"
 show_date: false
 summary: ""
 tags: 
