@@ -9,10 +9,10 @@ authors:
 doi: ""
 featured: false
 projects: []
-publication: '*European Commission, Joint Research Centre (JRC) - LET Working paper*'
+publication: '*Economia Politica*'
 publication_short: ""
 
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2023-05-04T00:00:00Z"
 show_date: false
 summary: ""
 tags:
@@ -20,7 +20,7 @@ tags:
 title: 'The structure of the labour market and wage inequality using RIF-OLS: The Italian case'
 
 url_dataset: ""
-url_pdf: https://www.econstor.eu/bitstream/10419/240186/1/1767905688.pdf
+url_pdf: https://link.springer.com/article/10.1007/s40888-023-00303-0
 url_poster: ""
 url_project: ""
 url_source: ""
