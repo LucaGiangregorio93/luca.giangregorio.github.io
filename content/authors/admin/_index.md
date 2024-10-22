@@ -9,9 +9,9 @@ interests:
 - Class analysis and income distributions
 last_name: Giangregorio
 organizations:
-- name: Pompeu Fabra University 
-  url: https://www.upf.edu/web/demosoc/
-role: PhD in Social Sciences
+- name: Roma Tre University
+  url: https://sites.google.com/view/inequality-in-rome/home?authuser=0
+role: Post-Doctoral researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,5 +33,6 @@ I obtained my PhD in Social Sciences in the Department of Political and Social S
 
 I combine economics and sociological literature to study the dynamics of labour markets, occupational structural changes, their impacts on income and wage inequalities, and intergenerational income and class mobility.
 
+Currently, I am Post-Doctoral researcher at Roma Tre Univeristy, working on the Estate, Inheritance, and Gift Taxes section of the GC Wealth Project (https://wealthproject.gc.cuny.edu) and contribute to the activity of Inequality in Rome Research Group. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Giangregorio.pdf" "newtab" >}}CV{{< /staticref >}}.
