@@ -31,8 +31,6 @@ content:
   #    tag: aim
   #  - name: Administrative Data - outsourcing & minimum wages
   #     tag: ad
-  #  - name: UNEQUAL
-  #     tag: un
 
 
 design:
