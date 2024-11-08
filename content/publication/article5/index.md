@@ -8,21 +8,21 @@ author_notes:
 authors:
 - admin
 - Davide Villani
-doi: ""
+doi: "https://doi.org/10.1007/s10888-024-09633-w"
 featured: false
 projects: []
-publication: 'ECINEQ Working Paper'
+publication: 'The Journal of Economic Inequality'
 publication_short: ""
 
-publishDate: "2023-05-01T00:00:00Z"
+publishDate: "2024-08-07T00:00:00Z"
 show_date: false
 summary: ""
 tags: 
 - Income inequality and Social Classes
-title: 'Income inequality, Top shares of Income, and Social Classes in the 21st Century'
+title: 'Functional distribution, personal income inequality, and top shares of income: do social classes still matter?'
 
 url_dataset: ""
-url_pdf: http://www.ecineq.org/milano/WP/ECINEQ2023-646.pdf
+url_pdf: https://link.springer.com/article/10.1007/s10888-024-09633-w#citeas
 url_poster: ""
 url_project: ""
 url_source: ""

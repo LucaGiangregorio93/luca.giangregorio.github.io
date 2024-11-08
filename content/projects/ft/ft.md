@@ -1,6 +1,6 @@
 ---
 show_date: false
-title: Administrative Data 
+title: Administrative Data - VisitINPS and Muestra Continua de Vida Laboral
 external_link: ""
 summary: ""
 tags:
@@ -12,5 +12,9 @@ url_video: ""
 
 ---
 
-Future projects aim to exploit the social security administrative data of Italy (provided by Italian Social Security Institute - INPS) and Spain (Muestra Continua de Vida Laboral) to investigate - over time - the outsourcing effects (i.e., contracting out) on wage inequality. Furthermore, in the case of Spain, it allows to decompose the direct and indirect effects of minimum wage on the overall wage inequality. 
+VisitINPS research fellowship (type B) with Marta Fana and Michele Raitano on "The impact of domestic outsourcing on wages along the productive structure: evidence from Italian Administrative data".
+Exploiting the matched employer-employee administrative data, we investigate the effects of domestic outsourcing strategy in Italy on wages, intensive, and extensive margin of Italian workers. 
+
+
+Using similar data for Spain (Muestra Continua de Vida Laboral), we investigate whether the 2019 minimum wage increase have differential effects for outsourced vs in-house workers, its reallocation, spillover, employment, and redistributive effects.  
 

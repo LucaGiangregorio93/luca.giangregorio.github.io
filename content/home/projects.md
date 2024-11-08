@@ -27,10 +27,10 @@ content:
   # filter_button:
   #  - name: Joint Research Center 
   #    tag: jrc
-  #    - name: Abilities & Intergenerational Mobility
-  #    tag: aim
-  #  - name: Administrative Data - outsourcing & minimum wages
-  #     tag: ad
+  #    - name: GC Wealth Project
+  #    tag: gcw
+  #  - name: Administrative Data - VisitINPS
+  #     tag: Inps
 
 
 design:

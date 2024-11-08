@@ -1,6 +1,5 @@
 ---
-abstract: The paper studies the determinants of wage differentials over time within jobs in France, detailing the contribution of different set of explanatory factors by means of a Recentred Influence Function, to estimate the effect of a set of covariates at different point of the wage distribution. We simultaneously test the contribution of tasks performed by workers and organisational methods at the firm level, labour market institutions and individual characteristics. We do so by exploiting a unique database at the worker level, the French Enquête Complémentaire Emploi&#58; Conditions de travail, between 2005 and 2016, which covers also monthyl wages. Main findings support the hypothesis according to which wages differentials along the wage distribution are almost entirely explained by contractual and work arrangements rather than tasks and organisational practices. Overall evidence run against the main argument of the Routine Bias Technical Change hypothesis.
-
+abstract: The paper examines wage differentials in France over time, analysing the impact of various covariates at different points on the wage distribution scale. We simultaneously assess multiple potential explanatory factors, including the tasks performed by workers, organizational methods, contractual arrangements, and individual characteristics. To accomplish this, we utilise a unique worker-level database, the French Enquête Complémentaire Emploi: Conditions de travail, covering the period from 2005 to 2016. Our primary findings support the hypothesis that shifts in wage differentials across the wage distribution can be predominantly attributed to contractual and work arrangements, as opposed to tasks and organizational practices. Job composition and contractual arrangements emerge as pivotal factors in understanding the determinants and patterns of wage inequality among workers. In contrast, tasks' content and organizational methods appear to play a relatively minor role. In sum, the evidence presented in this article suggests that the RBTC hypothesis may not be generalised across countries. It underscores the importance of considering structural and institutional factors, particularly in countries characterised by highly regulated labour markets and a strong tradition of industrial relations.
 
 author_notes:
 - Equal contribution
@@ -8,21 +7,21 @@ author_notes:
 authors:
 - Marta Fana
 - admin
-doi: ""
+doi: "https://doi.org/10.1016/j.labeco.2024.102514"
 featured: false
 projects: []
-publication: '*European Commission, Joint Research Centre (JRC) - LET Working paper*'
+publication: 'Labour Economics'
 publication_short: ""
 
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2024-07-01T00:00:00Z"
 show_date: false
 summary: ""
 tags:
 - RBTC
-title: 'Routine-biased technical change can fail: Evidence from France'
+title: 'The role of tasks, contractual arrangements, and job composition in explaining the dynamics of wage inequality: Evidence from France'
 
 url_dataset: ""
-url_pdf: https://www.econstor.eu/bitstream/10419/245945/1/1775811778.pdf
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0927537124000101
 url_poster: ""
 url_project: ""
 url_source: ""
