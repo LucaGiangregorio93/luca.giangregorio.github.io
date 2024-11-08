@@ -23,7 +23,7 @@ tags:
 title: 'The Outsourcing Wage Gap: Exploring the Interplay of Gender and Tasks Along the Job Distribution'
 
 url_dataset: ""
-url_pdf: https://link.springer.com/article/10.1007/s40797-023-00262-2#citeas
+url_pdf: "https://link.springer.com/article/10.1007/s40797-023-00262-2#citeas"
 url_poster: ""
 url_project: ""
 url_source: ""
