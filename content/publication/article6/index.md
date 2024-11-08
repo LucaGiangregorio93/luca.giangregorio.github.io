@@ -4,7 +4,7 @@ abstract: Most of the economic and sociological literature focuses on the role o
 
 authors:
 - admin
-doi: "https://doi.org/10.1016/j.rssm.2023.100838"
+doi: https://doi.org/10.1016/j.rssm.2023.100838
 featured: false
 projects: []
 publication: 'Research in Social Stratification and Mobility'
