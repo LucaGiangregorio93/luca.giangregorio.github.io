@@ -30,7 +30,7 @@ content:
   #    - name: GC Wealth Project
   #    tag: gcw
   #  - name: Administrative Data - VisitINPS
-  #     tag: Inps
+  #     tag: ad
 
 
 design:
