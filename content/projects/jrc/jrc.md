@@ -5,6 +5,7 @@ external_link: ""
 summary: ""
 tags:
 - JRC
+type: selected_project
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -14,10 +14,8 @@ subtitle: ''
 
 content:
   # Page type to display. E.g. project.
-  page_type: projects
-
-  # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  page_type: selected_project 
+    ## You have added type: selected_project in each file of selected projects!
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -25,12 +23,6 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   # filter_button:
-  #  - name: Joint Research Center 
-  #    tag: jrc
-  #    - name: GC Wealth Project
-  #    tag: gcw
-  #  - name: Administrative Data - VisitINPS
-  #     tag: ad
 
 
 design:
@@ -38,10 +30,10 @@ design:
   columns: '2'
 
   # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
+  # 1 = List
+  # 2 = Compact
+  # 3 = Card
+  # 5 = Showcase
   view: List
 
   # For Showcase view, flip alternate rows?

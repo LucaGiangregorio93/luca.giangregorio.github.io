@@ -5,6 +5,7 @@ external_link: "https://wealthproject.gc.cuny.edu"
 summary: ""
 tags:
 - gcw
+type: selected_project
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -15,15 +15,15 @@ content:
 
   # Contact details (edit or remove options as required)
   address:
-    street: Carrer Ramon Trias Fargas 25
-    city: Barcelona
+    street: Via Ostiense 163, 
+    city: Rome
   directions: 
-    20.133A Building 20 - Ciutadella Campus
+     240 - Dipartimento di Giurisprudenza 
   contact_links:
     - icon: envelope
       icon_pack: fas
-      name: luca.giangregorio@upf.edu
-      link: 'mailto:luca.giangregorio@upf.edu'
+      name: luca.giangregorio@uniroma3.it
+      link: 'mailto:luca.giangregorio@uniroma3.it'
 
 
 design:
